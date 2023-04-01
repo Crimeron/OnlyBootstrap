@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.card-img-top{
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    margin-top: 20px;
+}
+.notification{
+    background-color: lightgreen;
+    border-radius: 1rem;
+    margin-bottom: 10px;
+}
